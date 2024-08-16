@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiieux&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-<h3 align="center"> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
 </div>
 <div> 
   <a href = "mailto:vi.santana0@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,3 +17,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lixiieux/lixiieux/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lixiieux/lixiieux/output/github-contribution-grid-snake.svg">
 </picture>
+<div>
+<h3 align="center"> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
+</div>
