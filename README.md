@@ -1,4 +1,19 @@
-### Hello World, I´m Vitoria, be very welcome!😁
+## Hello World, I´m Vitoria, be very welcome!😁
+
+<br>
+🇺🇸
+<br>
+em construção
+
+##
+
+🇧🇷
+<br>
+
+em construção
+
+
+##
 
  <div>
   <a href="https://github.com/lixiieux">
@@ -7,6 +22,8 @@
 </div>
 <div style="display: inline_block"><br>
 </div>
+
+ 
 <div> 
   <a href = "mailto:vi.santana0@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitoria-albertina-ribeiro-de-santana-6730241aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -17,6 +34,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lixiieux/lixiieux/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lixiieux/lixiieux/output/github-contribution-grid-snake.svg">
 </picture>
-<div>
+ 
 <h3 align="center"> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
-</div>
+
+
