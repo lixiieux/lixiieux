@@ -3,14 +3,23 @@
 <br>
 🇺🇸
 <br>
-em construção
-
-##
+I'm an Information Technology student and currently working as a junior analyst. Passionate about data 📊, UI/UX 🎨 and always learning more about fullstack development 💻.
+I love building solutions that combine usability, functionality, and real impact.
+<br>
+Right now, I'm deepening my knowledge in both frontend and backend to create smarter and more intuitive digital experiences.
+<br>
+I truly believe technology should transform lives — and that's the kind of work I aim to do every day.
 
 🇧🇷
 <br>
 
-em construção
+Sou estudante de Tecnologia da Informação e atuo como analista jr na área. Tenho paixão por dados 📊, design de interfaces 🎨 e estou em constante evolução no desenvolvimento fullstack 💻.
+<br>
+Gosto de criar soluções que aliam usabilidade, funcionalidade e propósito. 
+<br>
+Atualmente, estou me aprofundando em frontend e backend, com foco em construir experiências digitais mais eficientes e intuitivas.
+<br>
+Acredito que a tecnologia pode (e deve) transformar realidades — e é nisso que quero trabalhar todos os dias.
 
 
 ##
