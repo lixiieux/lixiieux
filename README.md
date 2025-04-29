@@ -13,7 +13,7 @@ I truly believe technology should transform lives — and that's the kind of wor
 🇧🇷
 <br>
 
-Sou estudante de Tecnologia da Informação e atuo como analista jr na área. Tenho paixão por dados 📊, design de interfaces 🎨 e estou em constante evolução no desenvolvimento fullstack 💻.
+Sou estudante de Tecnologia da Informação e atuo como analista jr em implantação de eccomerce. Tenho paixão por dados 📊, design de interfaces 🎨 e estou em constante evolução no desenvolvimento fullstack 💻.
 <br>
 Gosto de criar soluções que aliam usabilidade, funcionalidade e propósito. 
 <br>
